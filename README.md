@@ -1,1 +1,2 @@
 # Desinging-and-Implementing-a-Private-Network-using-VPC
+This project demonstrates the design and implementation of a secure, scalable, and isolated private network architecture using Amazon Web Services (AWS) Virtual Private Cloud (VPC). The setup ensures efficient traffic routing, secure remote access, and controlled internet exposure for EC2 instances through strategic subnet design and access control
